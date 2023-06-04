@@ -1,0 +1,24 @@
+{
+  "name": "DARK-SHADOW-Bot",
+  "description": "A whatsApp bot based on Baileys linrary with Multi Device support",
+  "repository": "https://github.com/imalshanathsara1/DARK-SHADOW",
+  "logo": "https://i.ibb.co/kSy3FGp/download.gif",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    },
+    {
+      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "eco"
+        }
+    }
+}
