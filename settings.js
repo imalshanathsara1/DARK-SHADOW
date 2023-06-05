@@ -10,27 +10,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['916909137213'] //ur owner number
-global.ownernomer = "916909137213" //ur owner number2
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.owner = ['94718628230'] //ur owner number
+global.ownernomer = "94740196225" //ur owner number2
+global.ownername = "IMALSHA NETHSARA" //ur owner name
+global.ytname = "YT:" //ur yt chanel name
+global.socialm = "GitHub:imalshanathsara1" //ur github or insta name
+global.location = "Srilanka, kurunagala, nikawaratiya" //ur location
 
 //new
-global.botname = "Cheems Bot MD V7"
-global.ownernumber = '916909137213'
-global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["916909137213@s.whatsapp.net"]
-global.ownerweb = "https://youtube.com/@DGXeon"
-global.websitex = "https://youtu.be/ecl-JDVDz3E"
-global.wagc = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS"
-global.themeemoji = '😻'
-global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD7' //script link
-global.packname = "Sticker By"
-global.author = "Cheems Bot\n\n\nA whatsapp bot developed by\n🦄Dream Guy Xeon\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +916909137213"
-global.creator = "916909137213@s.whatsapp.net"
+global.botname = "⚜DARK SONIC⚜"
+global.ownernumber = '94718628230'
+global.ownername = 'IMALSHA'
+global.ownerNumber = ["94718628230@s.whatsapp.net"]
+global.ownerweb = ""
+global.websitex = ""
+global.wagc = "https://chat.whatsapp.com/HEJ1YzQuktdI1D5UnWvKpC"
+global.themeemoji = '⛲'
+global.wm = "DARK SONIC Bot Inc."
+global.botscript = 'https://github.com/imalshanathsara1/DARK-SHADOW' //script link
+global.packname = "Sticker By DARK SONIC"
+global.author = "DARK SONIC Bot\n\n\nA whatsapp bot developed by\n⚜IMALSHA⚜\n\n\n\n\n\n\n\n       --------______-------\n\n\n\n\n\n\n\nContact No. : +94718628230"
+global.creator = "94718628230@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.hituet = 0
 
