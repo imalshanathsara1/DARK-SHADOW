@@ -1143,9 +1143,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 }, { quoted: m })
@@ -1164,9 +1164,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1185,9 +1185,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1206,9 +1206,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1227,9 +1227,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1248,9 +1248,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1269,9 +1269,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1290,9 +1290,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1311,9 +1311,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1332,9 +1332,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1353,9 +1353,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1374,9 +1374,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1395,9 +1395,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1416,9 +1416,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
@@ -1437,9 +1437,9 @@ mentionedJid:[sender],
 "title": botname, 
 "containsAutoReply": true,
 "mediaType": 1, 
-"thumbnail": fs.readFileSync("./XeonMedia/theme/cheemspic.jpg"),
-"mediaUrl": `${wagc}`,
-"sourceUrl": `${wagc}`
+"thumbnail": fs.readFileSync("./XeonMedia/theme/download.gif"),
+"mediaUrl": ``,
+"sourceUrl": ``
 }
 }
 })
